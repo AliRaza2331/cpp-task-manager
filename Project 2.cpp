@@ -1,4 +1,3 @@
-// MCS 360, Project 2
 // ALI RAZA 
 // Note: Please use High, Normal and Low when adding task priority for user input
 
